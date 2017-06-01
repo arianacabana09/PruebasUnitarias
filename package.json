@@ -1,0 +1,19 @@
+{
+  "name": "gentle-tdd",
+  "version": "1.0.0",
+  "description": "Ejercicio de TDD",
+  "main": "index.js",
+  "scripts": {
+    "test": "test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/arianacabana09/PruebasUnitarias.git"
+  },
+  "author": "Ariana Cbana\u001b[D\u001b[D\u001b[D\u001b[Da\u001b[C\u001b[C\u001b[C\u001b[D\u001b[D\u001b[Dbana",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/arianacabana09/PruebasUnitarias/issues"
+  },
+  "homepage": "https://github.com/arianacabana09/PruebasUnitarias#readme"
+}
